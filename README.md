@@ -233,3 +233,6 @@ This repository serves as the official landing page for Windows XP Mode. The sof
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Windows XP Mode today!**
+
+---
+**Last updated:** 2026-09-10 23:00:07 UTC
