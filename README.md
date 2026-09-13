@@ -235,4 +235,4 @@ This repository serves as the official landing page for Windows XP Mode. The sof
 **Get the most recent version of Windows XP Mode today!**
 
 ---
-**Last updated:** 2026-09-12 22:02:04 UTC
+**Last updated:** 2026-09-13 00:41:33 UTC
